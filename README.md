@@ -1,4 +1,4 @@
-This is a Visual Studio project that implements branch and bound algorithm using C# for this specific maze:
+This is a Visual Studio project that implements branch and bound algorithm (with depth first search) using C# for this specific maze:
 
 
 ![](IMAGES/MAZE.png)
