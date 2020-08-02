@@ -191,7 +191,7 @@ namespace AI_2020
                     {
                         boundd = nds.Length;
                         solution = e_node_path;
-                        this.dataGridView1.Rows.Add(stack_str, list_to_string(closeset), e_node_path, boundd, "ΛΥΣΗ");
+                        this.dataGridView1.Rows.Add(stack_str, list_to_string(closeset), e_node_path, boundd, "SOLUTION");
                     }
                 }else if(nds.Length > boundd)
                 {
@@ -204,7 +204,7 @@ namespace AI_2020
                         { 1, 0, 0, 0, 1 },
                         { 1, 0, 1, 1, 1 },
                     };
-                    this.dataGridView1.Rows.Add(stack_str, list_to_string(closeset), e_node_path, boundd, "ΚΛΑΔΕΜΑ");
+                    this.dataGridView1.Rows.Add(stack_str, list_to_string(closeset), e_node_path, boundd, "PRUNING");
                     nodes.Pop();
                 }
                 else

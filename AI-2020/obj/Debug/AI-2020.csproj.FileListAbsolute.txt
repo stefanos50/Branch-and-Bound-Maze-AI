@@ -56,3 +56,14 @@ C:\Users\stefa\source\repos\AI-2020\obj\Debug\AI-2020.csproj.CoreCompileInputs.c
 C:\Users\stefa\source\repos\AI-2020\obj\Debug\AI-2020.csproj.CopyComplete
 C:\Users\stefa\source\repos\AI-2020\obj\Debug\AI-2020.exe
 C:\Users\stefa\source\repos\AI-2020\obj\Debug\AI-2020.pdb
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\bin\Debug\AI-2020.exe.config
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\bin\Debug\AI-2020.exe
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\bin\Debug\AI-2020.pdb
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI_2020.Form1.resources
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI_2020.Properties.Resources.resources
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.csproj.CopyComplete
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.exe
+C:\Users\stefa\Desktop\Branch-and-Bound-Maze-AI\AI-2020\obj\Debug\AI-2020.pdb

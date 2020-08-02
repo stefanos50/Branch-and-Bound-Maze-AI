@@ -1188,34 +1188,34 @@
             // 
             // searchfront
             // 
-            this.searchfront.HeaderText = "Μέτωπο Αναζήτησης";
+            this.searchfront.HeaderText = "Search Front";
             this.searchfront.Name = "searchfront";
             this.searchfront.ReadOnly = true;
             this.searchfront.Width = 200;
             // 
             // closedset
             // 
-            this.closedset.HeaderText = "Κλειστό Σύνολο";
+            this.closedset.HeaderText = "Closed Set";
             this.closedset.Name = "closedset";
             this.closedset.ReadOnly = true;
             this.closedset.Width = 300;
             // 
             // microscope
             // 
-            this.microscope.HeaderText = "Μικροσκόπιο";
+            this.microscope.HeaderText = "Microscope";
             this.microscope.Name = "microscope";
             this.microscope.ReadOnly = true;
             this.microscope.Width = 200;
             // 
             // bound
             // 
-            this.bound.HeaderText = "Όριο";
+            this.bound.HeaderText = "Bound";
             this.bound.Name = "bound";
             this.bound.ReadOnly = true;
             // 
             // childrenstates
             // 
-            this.childrenstates.HeaderText = "Καταστάσεις Παιδιά";
+            this.childrenstates.HeaderText = "Children States";
             this.childrenstates.Name = "childrenstates";
             this.childrenstates.ReadOnly = true;
             this.childrenstates.Width = 150;
